@@ -20,7 +20,7 @@
     "ci",
     "cd"
   ],
-  "author": "Edward Thomson <ethomson@microsoft.com>",
+  "author": "Olivier Thomson <ethomson@microsoft.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4"
